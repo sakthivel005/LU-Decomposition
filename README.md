@@ -38,10 +38,11 @@ print(solution)
 ```
 
 ## Output:
- ![Screenshot from 2023-01-11 23-26-44](https://user-images.githubusercontent.com/120550359/211882317-2538284e-2926-45b8-bf9e-054c34bb5938.png)
+(i)
+![Screenshot from 2023-01-11 23-26-44](https://user-images.githubusercontent.com/120550359/211882317-2538284e-2926-45b8-bf9e-054c34bb5938.png)
 
  
- 
+ (ii)
  ![Screenshot from 2023-01-11 23-27-16](https://user-images.githubusercontent.com/120550359/211882251-c4a107eb-32ad-41de-9c75-64a288a8fa0e.png)
 
 
